@@ -10,3 +10,5 @@ Developed with **React Native, React Native Paper** and **Expo SQLite** techniqu
     * GPS-coordinates (lat and lon)
     * Time and date
 * Deletion of a singular location note is also possible  
+
+![image](https://github.com/user-attachments/assets/a758ce83-09d6-4f58-9058-f352236117a0)
